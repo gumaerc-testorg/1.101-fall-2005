@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains the test results of beam buckling.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2005/783088277f6571a1cbaafba588f1f0ec_lab3_notes.pdf
+file: /media/courses/1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2005/783088277f6571a1cbaafba588f1f0ec_lab3_notes.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Structures
+parent_type: CourseSection
 resourcetype: Document
 title: lab3_notes.pdf
 uid: 78308827-7f65-71a1-cbaa-fba588f1f0ec

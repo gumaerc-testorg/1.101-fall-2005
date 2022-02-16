@@ -2,8 +2,12 @@
 content_type: resource
 description: This resource contains the engineering study of heat loss performance
   of an MIT building.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2005/e713f47643d2222e7c56604c2640328d_project3.pdf
+file: /media/courses/1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2005/e713f47643d2222e7c56604c2640328d_project3.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Thermal Design
+parent_type: CourseSection
 resourcetype: Document
 title: project3.pdf
 uid: e713f476-43d2-222e-7c56-604c2640328d
