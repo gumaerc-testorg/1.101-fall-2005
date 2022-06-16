@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains assignments, project teams, safety, tools and supplies,
+  grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
