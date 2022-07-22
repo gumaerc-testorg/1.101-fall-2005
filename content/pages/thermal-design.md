@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains objectives, one in-lab practical exercises, engineering
+  report, and a table containing weeks, lectures and lab information.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Thermal Design
 uid: d51c2ce7-9538-4a50-20ef-88704b6e9faf
 ---
@@ -15,9 +19,9 @@ This unit has the following objectives:
 
 There will be one in-lab practical exercise and an engineering report:
 
-1\. We will carry out a practical laboratory exercise in which we determine the heat flow characteristics of several types of construction. ([PDF]({{< baseurl >}}/resources/thermal_lab))
+1\. We will carry out a practical laboratory exercise in which we determine the heat flow characteristics of several types of construction. ({{% resource_link 37bedfd6-f4ea-1f9a-9c53-356954da7622 "PDF" %}})
 
-2\. Each team will conduct and report on a Heat Loss Study of an MIT building or part thereof. ([PDF]({{< baseurl >}}/resources/project3))
+2\. Each team will conduct and report on a Heat Loss Study of an MIT building or part thereof. ({{% resource_link e713f476-43d2-222e-7c56-604c2640328d "PDF" %}})
 
 {{< tableopen >}}
 {{< theadopen >}}

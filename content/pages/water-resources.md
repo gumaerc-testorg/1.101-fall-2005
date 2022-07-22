@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: Description of the water resources project.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Water Resources
 uid: 533362f3-d3ab-5f81-bbef-5ac88877a430
 ---
@@ -27,19 +30,19 @@ Exercises and Design Activities
 
 ### First Lab (Week #2):
 
-To verify that a water source is acidic, and to verify that a neutralization scheme is actually working, it is necessary to have a sensor that measures the pH of water. Building and demonstrating such a sensor is a task of the first lab. You will have access to pH electrodes, Proto-Boards, and various parts, as well as directions to assemble a circuit that can display the electrode's output voltage. We will have standard calibration solutions (pH buffers) at pH 4, 7, and 10 available to calibrate your sensor. (To verify pressure behavior, you will ultimately need to install pressure sensors as well-these will be mechanical gages and they will serve to measure the pressure drop (head loss) incurred by your device.) There will also be a series of exercises in pH control, with which to both demonstrate the sensor and renew your acquaintance with acid-base chemistry. ([PDF]({{< baseurl >}}/resources/lab1))
+To verify that a water source is acidic, and to verify that a neutralization scheme is actually working, it is necessary to have a sensor that measures the pH of water. Building and demonstrating such a sensor is a task of the first lab. You will have access to pH electrodes, Proto-Boards, and various parts, as well as directions to assemble a circuit that can display the electrode's output voltage. We will have standard calibration solutions (pH buffers) at pH 4, 7, and 10 available to calibrate your sensor. (To verify pressure behavior, you will ultimately need to install pressure sensors as well-these will be mechanical gages and they will serve to measure the pressure drop (head loss) incurred by your device.) There will also be a series of exercises in pH control, with which to both demonstrate the sensor and renew your acquaintance with acid-base chemistry. ({{% resource_link 884dc1b5-fac2-fcb0-716b-a88d481fb9c0 "PDF" %}})
 
-Circuit Design ([PDF]({{< baseurl >}}/resources/circuit))
+Circuit Design ({{% resource_link e965e2f8-72cd-7385-648c-ce835da4e84b "PDF" %}})
 
 ### Second Lab (Week #3):
 
 The focus of this week will be dissolution rates. Specifically, if dissolution of solid limestone is chosen as the means of water neutralization, it will be necessary to assure that the rate of dissolution will sufficient to neutralize all water even under worst-case conditions. If you are designing a treatment column, this corresponds to fastest water flow.
 
-To arrive at a detailed design for a treatment column (most people will opt for a column, though this is not required) it is necessary to relate dissolution rates to the other parameters of your design. Such parameters include column length, area, and packing material. Thus, we will conduct a series of exercises leading to the production of design curves for limestone sands of various grain sizes. At this time you and your team should also be determining how to make sure that your device meets requirements for withstanding water pressure, not leaking, and being straightforward to build. ([PDF]({{< baseurl >}}/resources/lab2))
+To arrive at a detailed design for a treatment column (most people will opt for a column, though this is not required) it is necessary to relate dissolution rates to the other parameters of your design. Such parameters include column length, area, and packing material. Thus, we will conduct a series of exercises leading to the production of design curves for limestone sands of various grain sizes. At this time you and your team should also be determining how to make sure that your device meets requirements for withstanding water pressure, not leaking, and being straightforward to build. ({{% resource_link f57c5aad-ebd0-f508-2dd1-0ebb52692fa1 "PDF" %}})
 
 ### Third Lab (Week #4):
 
-This set of laboratory exercises will include measurement of the hydraulic properties of sand columns, providing data that will permit you to determine the pressure loss as a function of flow in any given treatment column. ([PDF]({{< baseurl >}}/resources/lab3))
+This set of laboratory exercises will include measurement of the hydraulic properties of sand columns, providing data that will permit you to determine the pressure loss as a function of flow in any given treatment column. ({{% resource_link e938e269-2b42-01a0-7871-0e018848fd79 "PDF" %}})
 
 ### Fourth and Fifth Labs (Weeks #5 and #6):
 
@@ -52,6 +55,6 @@ Evaluation
 
 The project will be evaluated both on the process by which it is created, and on its performance. The former will be assessed through instructor observations of participation and reading of notebook. The latter will be assessed by in-class demonstrations of your project.
 
-Design Tips ([PDF]({{< baseurl >}}/resources/designtips))
+Design Tips ({{% resource_link 257bd83c-6f95-c58b-b585-1835002fd4e3 "PDF" %}})
 
-Report Guidelines ([PDF]({{< baseurl >}}/resources/labreport))
+Report Guidelines ({{% resource_link 01a9d7b3-a784-b655-c3bd-d393c0062b50 "PDF" %}})
