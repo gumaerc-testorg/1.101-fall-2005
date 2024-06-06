@@ -2,6 +2,7 @@
 content_type: resource
 description: A few pointers on preparing the water resources project.
 file: /courses/1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2005/257bd83c6f95c58bb5851835002fd4e3_designtips.pdf
+file_size: 12103
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

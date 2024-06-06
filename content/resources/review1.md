@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the description of  design review requirements.
 file: /courses/1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2005/0d7c6d6352e3718df05178b303468ea9_review1.pdf
+file_size: 20040
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

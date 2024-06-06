@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the engineering study of heat loss performance
   of an MIT building.
 file: /courses/1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2005/e713f47643d2222e7c56604c2640328d_project3.pdf
+file_size: 14565
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
