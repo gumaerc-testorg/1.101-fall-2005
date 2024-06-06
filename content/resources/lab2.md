@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains a laboratory exercise on design curve for acid
   neutralization by dissolution of calcium carbonate.
 file: /courses/1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2005/f57c5aadebd0f5082dd10ebb52692fa1_lab2.pdf
+file_size: 14511
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

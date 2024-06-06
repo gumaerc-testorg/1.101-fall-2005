@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource explains how to measure the elastic modulus of steel.
 file: /courses/1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2005/2c84b8e177983c7b0edbcbfda51343ac_lab1.pdf
+file_size: 268726
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
