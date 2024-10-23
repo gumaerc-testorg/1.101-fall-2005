@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a figure showing a simply supported beam.
-file: /courses/1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2005/8d3a4a71b811297751116ea3cbbb2cbb_classex3.pdf
+file: /ol-ocw-studio-app/courses/1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2005/8d3a4a71b811297751116ea3cbbb2cbb_classex3.pdf
 file_size: 42916
 file_type: application/pdf
 learning_resource_types: []
