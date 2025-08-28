@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource helps to experimentally determine the buckling load of
   a beam made from the steel stock available for use in the truss design task.
-file: /courses/1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2005/8fa6a218b324524fb97754f7d432a487_lab3.pdf
+file: /ol-ocw-studio-app/courses/1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2005/8fa6a218b324524fb97754f7d432a487_lab3.pdf
 file_size: 174214
 file_type: application/pdf
 learning_resource_types: []

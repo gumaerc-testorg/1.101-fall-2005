@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains a figure showing a simply supported beam and a
   free-body diagram.
-file: /courses/1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2005/7393b0a492c80842ca4bf055abe1e005_classex2.pdf
+file: /ol-ocw-studio-app/courses/1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2005/7393b0a492c80842ca4bf055abe1e005_classex2.pdf
 file_size: 35120
 file_type: application/pdf
 learning_resource_types: []
